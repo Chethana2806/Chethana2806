@@ -43,7 +43,7 @@ Built a simple desktop application to create QR codes from personal details (**N
 - Easy-to-use interface for entering information  
 - Instant QR code generation and save option  
 - Lightweight, standalone app with no extra setup required
-- 
+  
 ---
 
 ### 📑 RTI Assistant Platform
