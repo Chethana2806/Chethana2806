@@ -15,7 +15,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-teal)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange)
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-VLSI-red)
+[Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-VLSI-red)
 ![LTspice](https://img.shields.io/badge/LTspice-Circuit%20Simulation-blue)
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-purple)
 
