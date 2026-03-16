@@ -19,16 +19,3 @@
 ![LTspice](https://img.shields.io/badge/LTspice-Circuit%20Simulation-blue)
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-purple)
 
-![VLSI](https://img.shields.io/badge/VLSI-IC%20Design-darkred)
-![Digital Electronics](https://img.shields.io/badge/Digital-Electronics-blueviolet)
-![Signal Processing](https://img.shields.io/badge/Signal-Processing-yellowgreen)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
