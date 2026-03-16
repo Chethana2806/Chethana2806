@@ -38,14 +38,12 @@ Built an **AI-powered emotional support assistant** with accessibility features 
 - Designed for therapy exploration, compassionate guidance, and crisis support  
 
 ---
-
 ### 🔳 QR-ID Generator
-Created a **QR-ID Generator** in C using Win32 API and qrcodegen library.  
-- GUI to input **Name, Phone Number, and Email**  
-- Real-time QR code generation  
-- PNG export via **GDI+**  
-- Packaged as a standalone `.exe` without external dependencies  
-
+Built a simple desktop application to create QR codes from personal details (**Name, Phone Number, Email**).  
+- Easy-to-use interface for entering information  
+- Instant QR code generation and save option  
+- Lightweight, standalone app with no extra setup required
+- 
 ---
 
 ### 📑 RTI Assistant Platform
