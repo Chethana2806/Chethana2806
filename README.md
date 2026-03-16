@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Chethana
 
-<!--
-**Chethana2806/Chethana2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering (ECE) Student  
+💡 Interested in Embedded Systems, VLSI Design, and Signal Processing  
+🔬 Passionate about building hardware–software integrated systems  
+📚 Currently learning advanced VLSI design and embedded programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green)
+![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-teal)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-VLSI-red)
+![LTspice](https://img.shields.io/badge/LTspice-Circuit%20Simulation-blue)
+![Vivado](https://img.shields.io/badge/Xilinx-Vivado-purple)
+
+![VLSI](https://img.shields.io/badge/VLSI-IC%20Design-darkred)
+![Digital Electronics](https://img.shields.io/badge/Digital-Electronics-blueviolet)
+![Signal Processing](https://img.shields.io/badge/Signal-Processing-yellowgreen)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
