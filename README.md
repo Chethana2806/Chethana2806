@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Chethana
 
-🎓 Electronics and Communication Engineering (ECE) Student  
+🎓 2nd year Electronics and Communication Engineering (ECE) Student  
 💡 Interested in Embedded Systems, VLSI Design, and Signal Processing  
 🔬 Passionate about building hardware–software integrated systems  
 📚 Currently learning advanced VLSI design and embedded programming  
