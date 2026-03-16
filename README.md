@@ -19,7 +19,7 @@
 ![LTspice](https://img.shields.io/badge/LTspice-Circuit%20Simulation-blue)
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-purple)
 
-Perfect — let’s convert your Academic Projects section into a polished format for your GitHub README or portfolio. Here’s a clean Markdown version you can directly add:
+
 ## 📚 Academic Projects
 
 ### 🌿 Smart Solar-Powered Automatic Irrigation Robot (HydroBot)
