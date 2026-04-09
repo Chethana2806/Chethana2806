@@ -45,7 +45,13 @@ Built a simple desktop application to create QR codes from personal details (**N
 - Lightweight, standalone app with no extra setup required
   
 ---
+### 🟣 VeriTrace – AI Digital Forensics Assistant
 
+- AI-powered digital forensics assistant for verifying and structuring evidence  
+- Detects deepfakes and manipulated media across images and audio  
+- Organizes evidence into timelines and generates tamper-proof reports
+
+---
 ### 📑 RTI Assistant Platform
 Developed a **web application** for the Right to Information Act, 2005.  
 - Secure authentication & profile auto-fill  
